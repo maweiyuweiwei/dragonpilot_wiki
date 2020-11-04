@@ -29,7 +29,8 @@
 
 ### 下载运行一键安装脚本
 
-1. 下载 [Windows 一键安装包（v14）](http://d.sdut.me/neos/auto_install_v14_win.zip)
+1. 下载 [Windows 一键安装包（v14）](链接：https://pan.baidu.com/s/1RRiLssJdfgETWjzg4gsRvg 
+)提取码：6666
 2. 解压并打开目录，运行脚本 `flash.bat`，按照脚本提示进行操作
 
 参考视频：[Windows 下一键安装 openpilot 全纪录](https://www.bilibili.com/video/av76232185/)
