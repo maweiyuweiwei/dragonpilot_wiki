@@ -29,7 +29,7 @@
 
 ### 下载运行一键安装脚本
 
-1. 下载 [Windows 一键安装包（v14）](链接：https://pan.baidu.com/s/1RRiLssJdfgETWjzg4gsRvg 
+1. 下载 [Windows 一键安装包（v14）](https://pan.baidu.com/s/1RRiLssJdfgETWjzg4gsRvg 
 )提取码：6666
 2. 解压并打开目录，运行脚本 `flash.bat`，按照脚本提示进行操作
 
